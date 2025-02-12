@@ -202,7 +202,7 @@ import './contrib/replNotebook/browser/repl.contribution.js';
 import './contrib/testing/browser/testing.contribution.js';
 
 // Logs
-import './contrib/logs/common/logs.contribution.js';
+// import './contrib/logs/common/logs.contribution.js';
 
 // Quickaccess
 import './contrib/quickaccess/browser/quickAccess.contribution.js';
@@ -227,15 +227,15 @@ import './contrib/searchEditor/browser/searchEditor.contribution.js';
 import './contrib/sash/browser/sash.contribution.js';
 
 // SCM
-import './contrib/scm/browser/scm.contribution.js';
+// import './contrib/scm/browser/scm.contribution.js';
 
 // Debug
-import './contrib/debug/browser/debug.contribution.js';
-import './contrib/debug/browser/debugEditorContribution.js';
-import './contrib/debug/browser/breakpointEditorContribution.js';
-import './contrib/debug/browser/callStackEditorContribution.js';
-import './contrib/debug/browser/repl.js';
-import './contrib/debug/browser/debugViewlet.js';
+// import './contrib/debug/browser/debug.contribution.js';
+// import './contrib/debug/browser/debugEditorContribution.js';
+// import './contrib/debug/browser/breakpointEditorContribution.js';
+// import './contrib/debug/browser/callStackEditorContribution.js';
+// import './contrib/debug/browser/repl.js';
+// import './contrib/debug/browser/debugViewlet.js';
 
 // Markers
 import './contrib/markers/browser/markers.contribution.js';
@@ -265,18 +265,18 @@ import './contrib/customEditor/browser/customEditor.contribution.js';
 import './contrib/externalUriOpener/common/externalUriOpener.contribution.js';
 
 // Extensions Management
-import './contrib/extensions/browser/extensions.contribution.js';
-import './contrib/extensions/browser/extensionsViewlet.js';
+// import './contrib/extensions/browser/extensions.contribution.js';
+// import './contrib/extensions/browser/extensionsViewlet.js';
 
 // Output View
 import './contrib/output/browser/output.contribution.js';
 import './contrib/output/browser/outputView.js';
 
 // Terminal
-import './contrib/terminal/terminal.all.js';
+// import './contrib/terminal/terminal.all.js';
 
 // External terminal
-import './contrib/externalTerminal/browser/externalTerminal.contribution.js';
+// import './contrib/externalTerminal/browser/externalTerminal.contribution.js';
 
 // Relauncher
 import './contrib/relauncher/browser/relauncher.contribution.js';
@@ -387,7 +387,7 @@ import './contrib/bracketPairColorizer2Telemetry/browser/bracketPairColorizer2Te
 import './contrib/accessibility/browser/accessibility.contribution.js';
 
 // Share
-import './contrib/share/browser/share.contribution.js';
+// import './contrib/share/browser/share.contribution.js';
 
 // Synchronized Scrolling
 import './contrib/scrollLocking/browser/scrollLocking.contribution.js';
